@@ -2,7 +2,7 @@
 
 ## GOA repos
 
-* 1
+* [setup](https://github.com/afsc-gap-products/setup) Here is the repo you want.
 * 2
 
 ## Bering Sea
