@@ -1,11 +1,10 @@
 # AFSC Gap Products
 
+## Data requests
+Do you have a data request or want to fulfill one? Go here:
+
+* [data-requests](https://github.com/afsc-gap-products/data-requests)
+
+## Bering Sea repos
+
 ## GOA repos
-
-* [setup](https://github.com/afsc-gap-products/setup) Here is the repo you want.
-* 2
-
-## Bering Sea
-
-* 3
-* 4
