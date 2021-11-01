@@ -1,4 +1,5 @@
-# AFSC Gap Products
+# AFSC GAP Products
+Welcome to the organization repo for the Groundfish Assessment Program's survey team at the Alaska Fisheries Science Center. 
 
 ## Data requests
 Do you have a data request or want to fulfill one? Go here:
