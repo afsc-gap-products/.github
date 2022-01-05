@@ -1,6 +1,9 @@
 # AFSC GAP Products
 Welcome to the organization repo for the Groundfish Assessment Program's survey team at the Alaska Fisheries Science Center. 
 
+## Survey planning
+Are you looking for the task list for one of the surveys? If you're in the GOA-AI group, go [here](https://github.com/orgs/afsc-gap-products/projects/3) to access the Survey Planning Task List for Summer 2022.
+
 ## Data requests
 Do you have a data request or want to fulfill one? Go here:
 
