@@ -10,6 +10,9 @@ Do you have a data request or want to fulfill one? Go here:
 * [data-requests](https://github.com/afsc-gap-products/data-requests)
 
 ## Bering Sea repos
+| Repository        | Status           | Description | Contact author  |
+| ------------- |-------------| -----|-----|
+| [coldpool](https://github.com/afsc-gap-products/coldpool)      | deployed | Cold pool area, mean temperature, and temperature rasters from the EBS shelf and NBS bottom trawl survey   | @Sean-Rohan-NOAA |
 
 ## GOA repos
 | Repository        | Status           | Description | Contact author  |
