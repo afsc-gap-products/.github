@@ -12,7 +12,9 @@ Do you have a data request or want to fulfill one? Go here:
 ## Bering Sea repos
 | Repository        | Status           | Description | Contact author  |
 | ------------- |-------------| -----|-----|
-| [coldpool](https://github.com/afsc-gap-products/coldpool)      | deployed | Cold pool area, mean temperature, and temperature rasters from the EBS shelf and NBS bottom trawl survey   | @Sean-Rohan-NOAA, @Lewis-Barnett-NOAA |
+| [akfishcondition](https://github.com/afsc-gap-products/akfishcondition) | deployed | Groundfish morphometric fish condition based on length-weight regressions for the EBS, GOA, and AI. | @Sean-Rohan-NOAA |
+| [coldpool](https://github.com/afsc-gap-products/coldpool)      | deployed | Cold pool area, mean temperature, and temperature rasters from the EBS shelf and NBS bottom trawl surveys.  | @Sean-Rohan-NOAA, @Lewis-Barnett-NOAA |
+
 
 ## GOA repos
 | Repository        | Status           | Description | Contact author  |
