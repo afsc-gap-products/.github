@@ -2,8 +2,35 @@
 
 Welcome to the organization repo for the Groundfish Assessment Program's survey team at the Alaska Fisheries Science Center. 
 
-## Survey planning
-Are you looking for the task list for one of the surveys? If you're in the GOA-AI group, go [here](https://github.com/orgs/afsc-gap-products/projects/4) to access the Survey Planning Task List for Summer 2023.
+>Alaska Fisheries Science Center (AFSC) National Oceanic and Atmospheric Administration (NOAA)  
+Resource Assessment and Conservation Engineering Division (RACE)  
+Groundfish Assessment Program (GAP) 7600 Sand Point Way, N.E. bldg. 4  
+Seattle, WA 98115 USA
+
+## Code of Conduct
+
+Please review our [Code of Conduct](https://github.com/afsc-gap-products/.github/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guide](https://github.com/afsc-gap-products/.github/blob/main/.github/CONTRIBUTING.md). These are adapted from the [NMFS Open Science](https://github.com/nmfs-opensci) GitHub Organization. 
+
+
+**Suggestions and Comments**: If you see that the data, product, or metadata can be improved, you are invited to create a pull request, submit an issue to the code’s repository, or [submit an issue to the GitHub organization](https://github.com/afsc-gap-products/data-requests/issues).
+
+The code in this GitHub Organization and associated repository are regularly being updated and improved. Please consider code therein to be **living documents** and refer to releases for finalized products and project milestones.
+
+## User Resources
+
+- [Access Tips and Documentation for All Production Data](https://afsc-gap-products.github.io/gap_products/)
+
+- [Fisheries One Stop Shop (FOSS)](https://www.fisheries.noaa.gov/foss)
+
+- [Groundfish Assessment Program Bottom Trawl Surveys](https://www.fisheries.noaa.gov/alaska/science-data/groundfish-assessment-program-bottom-trawl-surveys)
+
+- [AFSC’s Resource Assessment and Conservation Engineering Division](https://www.fisheries.noaa.gov/about/resource-assessment-and-conservation-engineering-division)
+
+- [Survey code books](https://www.fisheries.noaa.gov/resource/document/groundfish-survey-species-code-manual-and-data-codes-manual)
+
+- [Publications and Data Reports](https://repository.library.noaa.gov/)
+
+- [Research Surveys conducted at AFSC](https://www.fisheries.noaa.gov/alaska/ecosystems/alaska-fish-research-surveys)
 
 ## Data requests
 Do you have a data request or want to fulfill one? Go here:
@@ -19,9 +46,9 @@ Do you have a data request or want to fulfill one? Go here:
 | [gapindex](https://github.com/afsc-gap-products/gapindex)      | in progress | For calculating design-based indices of abundance from bottom trawl survey data   | @MargaretSiple-NOAA, @zoyafuso-NOAA |
 | [gap_products](https://afsc-gap-products.github.io/gap_products/)     | in progress | This repository supports code used to create tables in the GAP_PRODUCTS Oracle schema. These tables include the master production tables, tables shared with AKFIN, and tables publicly shared on FOSS.   | @EmilyMarkowitz-NOAA, @zoyafuso-NOAA, @SarahFriedman-NOAA |
 
-## Suggestions and Comments
+## Internal Resources
 
-If you see that the data, product, or metadata can be improved, you are invited to create a pull request, submit an issue to the code’s repository, or [submit an issue to the GitHub organization](https://github.com/afsc-gap-products/data-requests/issues).
+ - **Survey planning:** Are you looking for the task list for one of the surveys? If you're in the GOA-AI group, go [here](https://github.com/orgs/afsc-gap-products/projects/4) to access the Survey Planning Task List for Summer 2023.
 
 ## NOAA README
 
