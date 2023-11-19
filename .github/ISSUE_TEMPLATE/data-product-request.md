@@ -7,10 +7,17 @@ assignees: ''
 
 ---
 
-**Data product requested (e.g., CPUE, biomass, temperature) and output type (e.g., .csv, plot)**: 
+**Data product requested:** 
+<!-- (e.g., CPUE, biomass, temperature)  -->
+
+**Output type:** 
+<!-- (e.g., .csv, plot)   -->
 
 **Species**:
 
-**Region** (e.g., Gulf of Alaska (GOA), Aleutian Islands (AI), BS (Bering Sea)):
+**Region** :
+<!-- (e.g., Gulf of Alaska (GOA), Aleutian Islands (AI), BS (Bering Sea))   -->
 
-**Research team making the request** (PI /requester name, and tag team members with GitHub accounts, or email address if requestor does not have a GitHub account. Division is nice too.):
+**Research team making the request:**
+<!-- (PI /requester name, and tag team members with GitHub accounts, or email address if requestor does not have a GitHub account.)   -->
+
