@@ -6,7 +6,7 @@
 > in the code
 > [releases](https://github.com/afsc-gap-products/.github/releases).
 
-## This code is primarally maintained by `afsc-gap-products` organization admin
+## This code is primarily maintained by `afsc-gap-products` organization admin
 
 ## Suggestions and Comments
 
