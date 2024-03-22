@@ -46,9 +46,11 @@ Do you have a data request or want to fulfill one? Go here:
 | [gapindex](https://github.com/afsc-gap-products/gapindex)      | in progress | For calculating design-based indices of abundance from bottom trawl survey data   | @MargaretSiple-NOAA, @zoyafuso-NOAA |
 | [gap_products](https://afsc-gap-products.github.io/gap_products/)     | in progress | This repository supports code used to create tables in the GAP_PRODUCTS Oracle schema. These tables include the master production tables, tables shared with AKFIN, and tables publicly shared on FOSS.   | @EmilyMarkowitz-NOAA, @zoyafuso-NOAA, @SarahFriedman-NOAA |
 
-## Internal Resources
+## Survey Planning
 
- - **Survey planning:** Are you looking for the task list for one of the surveys? If you're in the GOA-AI group, go [here](https://github.com/orgs/afsc-gap-products/projects/4) to access the Survey Planning Task List for Summer 2023.
+ - [2024 AI Survey Planning Task List](https://github.com/orgs/afsc-gap-products/projects/8)
+ - [2024 EBS Survey Planning Task List](https://github.com/orgs/afsc-gap-products/projects/11)
+ - [2024 EBS Post-Survey Task List](https://github.com/orgs/afsc-gap-products/projects/12)
 
 ## NOAA README
 
