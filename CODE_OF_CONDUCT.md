@@ -40,7 +40,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 [Blocking a user from your organization](https://docs.github.com/en/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)
 
-[https://docs.github.com/en/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account](https://docs.github.com/en/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)
+[Blocking a user from your personal account](https://docs.github.com/en/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-personal-account)
 
 ## Attribution
 
