@@ -1,7 +1,7 @@
 ---
 name: Data product request
 about: For requesting data from the GAP Survey team
-title: "[Data product request]"
+title: ""
 labels: ''
 assignees: ''
 
@@ -14,6 +14,7 @@ assignees: ''
 <!-- (e.g., .csv, plot)   -->
 
 **Species**:
+<!-- (e.g., all snails, walleye pollock   -->
 
 **Region** :
 <!-- (e.g., Gulf of Alaska (GOA), Aleutian Islands (AI), BS (Bering Sea))   -->
