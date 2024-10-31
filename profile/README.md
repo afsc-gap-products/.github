@@ -43,8 +43,8 @@ Do you have a data request or want to fulfill one? Go here:
 | ------------- |-------------| -----|-----|
 | [akfishcondition](https://github.com/afsc-gap-products/akfishcondition) | deployed | Groundfish morphometric fish condition based on length-weight regressions for the EBS, GOA, and AI (R Package). | @Sean-Rohan-NOAA |
 | [coldpool](https://github.com/afsc-gap-products/coldpool)      | deployed | Cold pool area, mean temperature, and rasters of bottom and surface temperatures from the EBS shelf and NBS bottom trawl surveys (R Package).  | @Sean-Rohan-NOAA, @Lewis-Barnett-NOAA |
-| [gapindex](https://github.com/afsc-gap-products/gapindex)      | in progress | For calculating design-based indices of abundance from bottom trawl survey data   | @MargaretSiple-NOAA, @zoyafuso-NOAA |
-| [gap_products](https://afsc-gap-products.github.io/gap_products/)     | in progress | This repository supports code used to create tables in the GAP_PRODUCTS Oracle schema. These tables include the master production tables, tables shared with AKFIN, and tables publicly shared on FOSS.   | @EmilyMarkowitz-NOAA, @zoyafuso-NOAA, @SarahFriedman-NOAA |
+| [gapindex](https://github.com/afsc-gap-products/gapindex)      | deployed | For calculating design-based indices of abundance from bottom trawl survey data   | @MargaretSiple-NOAA, @zoyafuso-NOAA |
+| [gap_products](https://afsc-gap-products.github.io/gap_products/)     | deployed | This repository supports code used to create tables in the GAP_PRODUCTS Oracle schema. These tables include the master production tables, tables shared with AKFIN, and tables publicly shared on FOSS.   | @EmilyMarkowitz-NOAA, @zoyafuso-NOAA, @SarahFriedman-NOAA |
 
 ## Survey Planning
 
