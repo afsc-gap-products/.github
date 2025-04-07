@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Software:** 
-<!-- (e.g., METIS, Posiden, Wheelhouse)  -->
+<!-- (e.g., METIS, Poseidon, Wheelhouse)  -->
 
 **Issue:** 
 <!-- (please describe, provide reproducible examples, code, and/or provide screenshots)   -->
@@ -23,8 +23,11 @@ assignees: ''
 **Who might solve this issue?:**
 <!-- (GAP or OFIS?)   -->
 
-**Potiental solutuions:**
+**Potential solutions:**
 <!-- (Do you have any ideas of how this issue can be solved?)   -->
 
-<!-- (What is your current work around for this issue?)   -->
+<!-- (What is your current workaround for this issue?)   -->
+
+**Suggested priority:** 
+<!-- (Is this a wish list item? Or is it critical for future use? Or is this a minor annoyance?)   -->
 
