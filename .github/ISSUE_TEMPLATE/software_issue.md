@@ -14,12 +14,11 @@ assignees: ''
 <!-- (please describe, provide reproducible examples, code, and/or provide screenshots)   -->
 
 **Which survey vessel and cruise did this occur on:**
-<!-- (e.g., all snails, walleye pollock   -->
-<!-- (e.g., Gulf of Alaska (GOA), Aleutian Islands (AI), BS (Bering Sea))   -->
+<!-- (Alaska Knight (162) cruise 202401)  -->
 
 **Potential solutions:**
 <!-- (What is your current workaround for this issue?)   -->
 
 **Suggested priority:** 
-<!-- (Is this a wish list item? Or is it critical for future use? Or is this a minor annoyance?)   -->
+<!-- (Is this critical for proper functionality? Or is this a minor annoyance?)   -->
 <!-- (On a scale of 1 to 5, 1 being a minor annoyance and 5 being mission critical)   -->
