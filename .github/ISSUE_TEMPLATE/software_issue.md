@@ -13,7 +13,7 @@ assignees: ''
 **Issue:** 
 <!-- (please describe, provide reproducible examples, code, and/or provide screenshots)   -->
 
-**Which survey vessel and cruise did this occur on:** :
+**Which survey vessel and cruise did this occur on:**
 <!-- (e.g., all snails, walleye pollock   -->
 <!-- (e.g., Gulf of Alaska (GOA), Aleutian Islands (AI), BS (Bering Sea))   -->
 
