@@ -13,7 +13,7 @@ assignees: ''
 **Issue:** 
 <!-- (please describe, provide reproducible examples, code, and/or provide screenshots)   -->
 
-**Which survey vessel and cruise did this occur on:**
+**Survey vessel and cruise this occured on:**
 <!-- (Alaska Knight (162) cruise 202401)  -->
 
 **Potential solutions:**
