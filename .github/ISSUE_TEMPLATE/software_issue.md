@@ -1,6 +1,6 @@
 ---
 name: At-Sea Software Issues
-about: For requesting solutions to software issues for METIS from the GAP Survey team or OFIS
+about: For identifiying and tracking software issues for GAP Survey software (excluding tablets) to be fixed by GAP staff or OFIS
 title: ""
 labels: ''
 assignees: ''
@@ -8,26 +8,18 @@ assignees: ''
 ---
 
 **Software:** 
-<!-- (e.g., METIS, Poseidon, Wheelhouse)  -->
+<!-- (e.g., METIS, GIDES, Poseidon, Wheelhouse, etc)  -->
 
 **Issue:** 
 <!-- (please describe, provide reproducible examples, code, and/or provide screenshots)   -->
 
-**Is this specific to any species or region?** :
+**Which survey vessel and cruise did this occur on:** :
 <!-- (e.g., all snails, walleye pollock   -->
 <!-- (e.g., Gulf of Alaska (GOA), Aleutian Islands (AI), BS (Bering Sea))   -->
 
-**In what capacity are you using this software?:**
-<!-- (Are you a DL, FPC, or team lead? Or a new user?)   -->
-
-**Who might solve this issue?:**
-<!-- (GAP or OFIS?)   -->
-
 **Potential solutions:**
-<!-- (Do you have any ideas of how this issue can be solved?)   -->
-
 <!-- (What is your current workaround for this issue?)   -->
 
 **Suggested priority:** 
 <!-- (Is this a wish list item? Or is it critical for future use? Or is this a minor annoyance?)   -->
-
+<!-- (On a scale of 1 to 5, 1 being a minor annoyance and 5 being mission critical)   -->
