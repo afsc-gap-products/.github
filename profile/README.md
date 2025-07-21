@@ -49,7 +49,7 @@ Do you have a data request or want to fulfill one? Go here:
 | [gapindex](https://github.com/afsc-gap-products/gapindex) | deployed | For calculating design-based indices of abundance from bottom trawl survey data   | @MargaretSiple-NOAA, @zoyafuso-NOAA |
 | [gap_products](https://afsc-gap-products.github.io/gap_products/) | deployed | This repository supports code used to create tables in the GAP_PRODUCTS Oracle schema. These tables include the master production tables, tables shared with AKFIN, and tables publicly shared on FOSS.   | @EmilyMarkowitz-NOAA, @zoyafuso-NOAA, @SarahFriedman-NOAA |
 | [navmaps](https://github.com/afsc-gap-products/navmaps) | deployed | Tools for converting vector geometries into files for plotter software (Globe, TimeZero, OpenCPN) and planning survey operations (e.g. traveling salesperson problem and Hamilton path algorithms). | @Sean-Rohan-NOAA |
-| [trawlmetrics] | deployed | Process net sensor data from AFSC bottom trawl surveys. | @Sean-Rohan-NOAA |
+| [trawlmetrics](https://github.com/afsc-gap-products/trawlmetrics) | deployed | Process net sensor data from AFSC bottom trawl surveys. | @Sean-Rohan-NOAA |
 
 
 ## Survey Planning
