@@ -41,15 +41,15 @@ Do you have a data request or want to fulfill one? Go here:
 
 | Repository        | Status           | Description | Contact author(s)  |
 | ------------- |-------------| -----|-----|
-| [akfishcondition](https://github.com/afsc-gap-products/akfishcondition) | deployed | Groundfish morphometric fish condition based on length-weight regressions for the EBS, GOA, and AI (R Package). | @Sean-Rohan-NOAA |
-| [akgfmaps](https://github.com/afsc-gap-products/akgfmaps) | deployed | Vector features ('shapefiles') for AFSC bottom trawl and longline surveys, groundfish/crab strata, NMFS statistical areas, ESR regions, BSIERP regions, and ADF&G statistical areas. | @Sean-Rohan-NOAA |
-| [coldpool](https://github.com/afsc-gap-products/coldpool)      | deployed | Cold pool area, mean temperature, and rasters of bottom and surface temperatures from the EBS shelf and NBS bottom trawl surveys (R Package).  | @Sean-Rohan-NOAA, @Lewis-Barnett-NOAA |
-| [esrindex](https://github.com/afsc-gap-products/esrindex) | deployed | Calculate design-based abundance indices for ESRs. | @Sean-Rohan-NOAA |
-| [gapctd](https://github.com/afsc-gap-products/gapctd) | deployed | Process data from trawl-mounted CTDs. | @Sean-Rohan-NOAA |
-| [gapindex](https://github.com/afsc-gap-products/gapindex) | deployed | For calculating design-based indices of abundance from bottom trawl survey data   | @MargaretSiple-NOAA, @zoyafuso-NOAA |
+| [akfishcondition](https://github.com/afsc-gap-products/akfishcondition) | deployed | Groundfish morphometric fish condition based on length-weight regressions for the EBS, GOA, and AI. R package. | @Sean-Rohan-NOAA |
+| [akgfmaps](https://github.com/afsc-gap-products/akgfmaps) | deployed | Vector features ('shapefiles') for AFSC bottom trawl and longline surveys, groundfish/crab strata, NMFS statistical areas, ESR regions, BSIERP regions, and ADF&G statistical areas. R package. | @Sean-Rohan-NOAA |
+| [coldpool](https://github.com/afsc-gap-products/coldpool)      | deployed | Cold pool area, mean temperature, and rasters of bottom and surface temperatures from the EBS shelf and NBS bottom trawl surveys. R package.  | @Sean-Rohan-NOAA, @Lewis-Barnett-NOAA |
+| [esrindex](https://github.com/afsc-gap-products/esrindex) | deployed | Calculate design-based abundance indices for ESRs.  R package. | @Sean-Rohan-NOAA |
+| [gapctd](https://github.com/afsc-gap-products/gapctd) | deployed | Process data from trawl-mounted CTDs. R package. | @Sean-Rohan-NOAA |
+| [gapindex](https://github.com/afsc-gap-products/gapindex) | deployed | For calculating design-based indices of abundance from bottom trawl survey data. R package. | @MargaretSiple-NOAA, @zoyafuso-NOAA |
 | [gap_products](https://afsc-gap-products.github.io/gap_products/) | deployed | This repository supports code used to create tables in the GAP_PRODUCTS Oracle schema. These tables include the master production tables, tables shared with AKFIN, and tables publicly shared on FOSS.   | @EmilyMarkowitz-NOAA, @zoyafuso-NOAA, @SarahFriedman-NOAA |
-| [navmaps](https://github.com/afsc-gap-products/navmaps) | deployed | Tools for converting vector geometries into files for plotter software (Globe, TimeZero, OpenCPN) and planning survey operations (e.g. traveling salesperson problem and Hamilton path algorithms). | @Sean-Rohan-NOAA |
-| [trawlmetrics](https://github.com/afsc-gap-products/trawlmetrics) | deployed | Process net sensor data from AFSC bottom trawl surveys. | @Sean-Rohan-NOAA |
+| [navmaps](https://github.com/afsc-gap-products/navmaps) | deployed | Tools for converting vector geometries into files for plotter software (Globe, TimeZero, OpenCPN) and planning survey operations (e.g. traveling salesperson problem and Hamilton path algorithms). R package. | @Sean-Rohan-NOAA |
+| [trawlmetrics](https://github.com/afsc-gap-products/trawlmetrics) | deployed | Process net sensor data from AFSC bottom trawl surveys. R package. | @Sean-Rohan-NOAA |
 
 
 ## Survey Planning
