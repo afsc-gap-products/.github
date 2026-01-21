@@ -54,8 +54,7 @@ Do you have a data request or want to fulfill one? Go here:
 
 ## Survey Planning
 
- - [2025 GOA Survey Planning Task List](https://github.com/orgs/afsc-gap-products/projects/23)
- - [2025 EBS Survey Planning Task List](https://github.com/orgs/afsc-gap-products/projects/11)
+ - [2026 Survey Planning Task List](https://github.com/orgs/afsc-gap-products/projects/26)
 
 ## NOAA README
 
