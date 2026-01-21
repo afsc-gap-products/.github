@@ -55,9 +55,11 @@ Do you have a data request or want to fulfill one? Go here:
 ## Survey Planning
 
  - [2026 Survey Planning Task List](https://github.com/orgs/afsc-gap-products/projects/26)
+ - [2026 AI Survey Planning Task List](https://github.com/orgs/afsc-gap-products/projects/26/views/6)
+ - [2026 EBS Survey Planning Task List](https://github.com/orgs/afsc-gap-products/projects/26/views/7)
 
 ## NOAA README
-
+)
 This repository is a scientific product and is not official
 communication of the National Oceanic and Atmospheric Administration, or
 the United States Department of Commerce. All NOAA GitHub project code
