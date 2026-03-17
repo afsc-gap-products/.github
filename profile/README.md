@@ -43,7 +43,7 @@ Do you have a data request or want to fulfill one? Go here:
 | ------------- |-------------| -----|-----|
 | [akfishcondition](https://github.com/afsc-gap-products/akfishcondition) | deployed | Groundfish morphometric fish condition based on length-weight regressions for the EBS, GOA, and AI. R package. | @Sean-Rohan-NOAA |
 | [akgfmaps](https://github.com/afsc-gap-products/akgfmaps) | deployed | Vector features ('shapefiles') for AFSC bottom trawl and longline surveys, groundfish/crab strata, NMFS statistical areas, ESR regions, BSIERP regions, and ADF&G statistical areas. R package. | @Sean-Rohan-NOAA |
-| [coldpool](https://github.com/afsc-gap-products/coldpool)      | deployed | Cold pool area, mean temperature, and rasters of bottom and surface temperatures from the EBS shelf and NBS bottom trawl surveys. R package.  | @Sean-Rohan-NOAA, @Lewis-Barnett-NOAA |
+| [coldpool](https://github.com/afsc-gap-products/coldpool)      | deployed | Cold pool area, mean temperature, and rasters of bottom and surface temperatures from the EBS shelf, NBS, AI, and GOA bottom trawl surveys. R package.  | @Sean-Rohan-NOAA, @Lewis-Barnett-NOAA |
 | [esrindex](https://github.com/afsc-gap-products/esrindex) | deployed | Calculate design-based abundance indices for ESRs.  R package. | @Sean-Rohan-NOAA |
 | [gapctd](https://github.com/afsc-gap-products/gapctd) | deployed | Process data from trawl-mounted CTDs. R package. | @Sean-Rohan-NOAA |
 | [gapindex](https://github.com/afsc-gap-products/gapindex) | deployed | For calculating design-based indices of abundance from bottom trawl survey data. R package. | @MargaretSiple-NOAA, @zoyafuso-NOAA |
